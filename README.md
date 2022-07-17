@@ -1,7 +1,7 @@
 # ROS-installation
 ## ROS installation in PC
 since I use windows OS so I need to ubunt first to install ros , so we will install ubuntu by virtual box
-* We will install vertual box from the [the virtual box website](https://www.virtualbox.org/)
+* We will install virtual box from the [the virtual box website](https://www.virtualbox.org/)
 ![alt text](https://github.com/Maashn5/ROS-installation/blob/main/Picture1.png)
 * Then we choose our OS (windose on my case) & install it as any regular program 
 * Then we download the ISO file for ubuntu system ( version 20.04) from [Ubuntu Focal Fossa](https://releases.ubuntu.com/20.04/)
