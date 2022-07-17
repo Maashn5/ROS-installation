@@ -1,6 +1,6 @@
 # ROS-installation
 ## ROS installation on PC
-since I use windows so I need to ubunt first to install ros , so we will install ubuntu by virtual box
+In this guide I will show how to install ros noetic on ubuntu 20.04 (specially for windows users) 
 * Install virtual box from the [the virtual box website](https://www.virtualbox.org/)
 ![alt text](https://github.com/Maashn5/ROS-installation/blob/main/Picture1.png)
 * Choose your OS (windose on my case) & install it as any regular program 
