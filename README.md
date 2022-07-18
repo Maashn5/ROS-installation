@@ -24,5 +24,9 @@ In this guide I will show how to install ros noetic on ubuntu 20.04 (specially f
 * When it done installation, check by roscore command, should return like this 
 ![alt text](https://github.com/Maashn5/ROS-installation/blob/main/Picture11.png)
 ## ROS installation on jetson nano
-* we need to install ubuntu or xubuntu in the jetson nano by its SD card 
+must install ubuntu or xubuntu in the jetson nano (on its SD card) 
 ![alt text](https://cdn.stereolabs.com/blog/wp-content/uploads/2019/03/microsd-card-jetson-nano.jpg)
+* First install the image from any source in the internet or from [NVIDIA](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#write)
+* Then flashing the image in the SD card by any third party program like [Etcher](https://www.balena.io/etcher/)
+* By putting the SD card in the jetson nano & run it & complete the setup of ubuntu 
+* When it's complete, you can install ros as previous or you can follow these instructions [ROS installation on jetson nano](https://www.stereolabs.com/blog/ros-and-nvidia-jetson-nano/)
